@@ -6,7 +6,7 @@ The code in this assignment was adapted from the open-source terminal version ma
 The game presents a grid with colored dots occupying some of the squares. The objective is to connect dots of the same color by drawing pipes between them such that the entire grid is occupied by pipes. However, pipes may not intersect. 
 
 
-Algorithm implemented:
+Algorithm implemented:<br>
 ![alt text](./algorithm.png)
 
 To execute your solver use the following command:<br>
